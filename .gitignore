@@ -1,0 +1,2 @@
+# GitHub rejects blobs > 100 MB; keep the archive local or use Releases / Git LFS
+chrome-win64.zip
